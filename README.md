@@ -17,6 +17,7 @@ systems, machine learning infrastructure, and exploring graph-based learning mod
 #### 🛠️ Tech Stack
 - Python, SQL, PyTorch, FastAPI
 - PostgreSQL, NetworkX, scikit-learn
+- NLP, RAG
 
 #### 👯 Open to Collaborating On
 - Open-source projects in data engineering, ML, or Graph Neural Networks
